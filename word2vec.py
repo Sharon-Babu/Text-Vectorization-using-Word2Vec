@@ -1,3 +1,6 @@
+#code to know how word2vec works
+
+
 import spacy
 nlp = spacy.load("en_core_web_sm", disable=['parser', 'ner'])
 
